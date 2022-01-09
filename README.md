@@ -8,6 +8,8 @@ This is a simple react application which is used to do the following:
 This project is the first react project and it is used to understand the basics of props, routing and states.
 This project was tought on CodeWithHarry Youtube channel.
 
+Exercise 1 - Added funtion to convert text to camel case
+Exercise 2 - Added Multi colored themes and applied on all screens
 
 ## Available Scripts
 
